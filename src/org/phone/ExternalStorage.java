@@ -12,7 +12,8 @@ public class ExternalStorage {
             int a=10;
             System.out.println("updating");
             int b=20;
-            
+            System.out.println("Creating from master");
+      
 	}
 
 }
